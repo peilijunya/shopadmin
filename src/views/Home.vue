@@ -15,5 +15,4 @@ export default {
     HelloWorld
   }
 }
-alert(1);
 </script>
